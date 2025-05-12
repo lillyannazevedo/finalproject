@@ -1,0 +1,5 @@
+
+=== Error correction and assembling warnings:
+ * 0:02:41.466   173M / 6828M WARN    General                 (pair_info_count.cpp       : 196)   Estimated mean insert size 324.398 is very small compared to read length 301
+ * 0:02:46.628   173M / 4137M WARN    General                 (launcher.cpp              : 180)   Your data seems to have high uniform coverage depth. It is strongly recommended to use --isolate option.
+======= Warnings saved to /Users/lillyazevedo/Desktop/my.cutesy.bacterium/spadesout/warnings.log

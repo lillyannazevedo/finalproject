@@ -1,0 +1,9 @@
+- "left reads":
+  - "/Users/lillyazevedo/Desktop/my.cutesy.bacterium/spadesout/corrected/SRR5961529_1.fastq00.0_0.cor.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/Users/lillyazevedo/Desktop/my.cutesy.bacterium/spadesout/corrected/SRR5961529_2.fastq00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/Users/lillyazevedo/Desktop/my.cutesy.bacterium/spadesout/corrected/SRR5961529__unpaired00.0_0.cor.fastq.gz"
+  "type": "paired-end"
