@@ -1,2 +1,0 @@
-neighbors/okenii_DSM.fasta
-neighbors/okenii_Lac.fasta
