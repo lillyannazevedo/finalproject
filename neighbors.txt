@@ -1,2 +1,2 @@
-neighbors/DSM169.fasta
-neighbors/Phototrophicbac.fasta
+neighbors/okenii_DSM.fasta
+neighbors/okenii_Lac.fasta

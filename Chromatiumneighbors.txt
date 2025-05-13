@@ -1,0 +1,2 @@
+spadesout/scaffolds.fasta	neighbors/okenii_DSM.fasta	99.9767	990	1005
+spadesout/scaffolds.fasta	neighbors/okenii_Lac.fasta	83.5597	597	1005
